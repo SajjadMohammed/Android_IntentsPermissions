@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentsPermissions</string>
+    <string name="userNameKey">userName</string>
+</resources>
